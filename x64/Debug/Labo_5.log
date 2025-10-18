@@ -1,0 +1,7 @@
+﻿  Labo_5.cpp
+D:\Programming\Labo_5\Labo_5\Labo_5.cpp(8,3): warning C4305: '=': truncation from 'double' to 'float'
+D:\Programming\Labo_5\Labo_5\Labo_5.cpp(8,16): warning C4305: '=': truncation from 'double' to 'float'
+D:\Programming\Labo_5\Labo_5\Labo_5.cpp(7,24): warning C4101: 'count': unreferenced local variable
+D:\Programming\Labo_5\Labo_5\Labo_5.cpp(7,7): warning C4101: 'x': unreferenced local variable
+D:\Programming\Labo_5\Labo_5\Labo_5.cpp(10,7): warning C4101: 'function': unreferenced local variable
+  Labo_5.vcxproj -> D:\Programming\Labo_5\x64\Debug\Labo_5.exe
