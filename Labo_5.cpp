@@ -26,7 +26,13 @@ for (x = 0.4; x <= 6.8; x = x + h) {
 
 }
 
+//my program ignores x=6.8 so i added manually
+float max_function = (pow(log(b * 6.8), 4) + 0.85) / (pow(a + b * pow(6.8, 3), 1.0 / 3));
+printf("f(6.8)=%0.2f \n", max_function);
 
+//results
+printf("sum is =%0.2f \n", sum+max_function);
+printf("count is: %i \n", kilkist+1);
 
 
 return 0;
